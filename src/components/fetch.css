@@ -1,0 +1,38 @@
+*{
+    background-color:darkcyan;
+    text-align: center;
+}
+
+h1, b {
+    color: white;
+}
+
+p{
+    font-style: normal;
+}
+
+input{
+    background-color: white;
+    padding: 10px;
+}
+
+#zipValidity, #cityValidity{
+    color: white;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+
+.fetching{
+    margin-left: 40px;
+}
+
+.zipList{
+    color: white;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.zipCodeInfo {
+    color: white;
+}
